@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ICMALEARN/FileContentIndex/67dd35ca-eab1-432a-aa86-cd4df62757e0.vsidx
+/.gitignore
+/.vs/ICMALEARN/v17/.wsuo
+*.v2
+/.vs/ICMALEARN/v17/DocumentLayout.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json

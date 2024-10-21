@@ -1,0 +1,6 @@
+@ICMA_LEARN.API_HostAddress = http://localhost:5092
+
+GET {{ICMA_LEARN.API_HostAddress}}/swagger/
+Accept: application/json
+
+###
